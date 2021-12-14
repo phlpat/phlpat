@@ -1,5 +1,10 @@
 ### Hi 👋 I'm Pat
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 - 📚 I’m a 3rd-year student at King Mongkut's Institute of Technology Ladkrabang
 - 🌱 I’m currently learning
