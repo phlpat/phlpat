@@ -11,7 +11,7 @@
         🌱 Front end web application -> ReactJS
 
 - 📫 How to reach me
-       <p> patphonlapat@gmail.com</p> 
+       <p>&nbsp;&nbsp;&nbsp;&nbsp;📫 patphonlapat@gmail.com</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
