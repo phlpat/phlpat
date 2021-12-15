@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning 
         🌱 Front end web application -> ReactJS
 
-- 📫 How to reach me 
-        📫 patphonlapat@gmail.com
+<p>- 📫 How to reach me</p> 
+       <p> 📫 patphonlapat@gmail.com</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
