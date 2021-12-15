@@ -5,10 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlpat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📚 I’m currently working on 
-        📚 I’m a 3rd-year student at King Mongkut's Institute of Technology Ladkrabang
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;📚 I’m a 3rd-year student at King Mongkut's Institute of Technology Ladkrabang</p>
 
 - 🌱 I’m currently learning 
-        🌱 Front end web application -> ReactJS
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;🌱 Front end web application -> ReactJS</p>
 
 - 📫 How to reach me
        <p>&nbsp;&nbsp;&nbsp;&nbsp;📫 patphonlapat@gmail.com</p> 
