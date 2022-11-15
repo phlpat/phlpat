@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pat</h1>
+<h1 align="center">Hi 👋, I'm Phonlapat</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlpat&show_icons=true&theme=radical)
 
