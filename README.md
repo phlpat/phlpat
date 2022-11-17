@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning 
         <p>&nbsp;&nbsp;&nbsp;&nbsp;🌱 Front end web application -> ReactJS</p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;🌱 Ux/Ui deesign -> ReactJS</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;🌱 Ux/Ui deesign -> Figma</p>
 
 - 📫 How to reach me
        <p>&nbsp;&nbsp;&nbsp;&nbsp;📫 patphonlapat@gmail.com</p> 
